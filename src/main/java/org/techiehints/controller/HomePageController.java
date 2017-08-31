@@ -11,4 +11,5 @@ public class HomePageController {
 	public String getHomePage ( ) {
 		return "home";
 	}
+	
 }
